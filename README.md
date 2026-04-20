@@ -1,4 +1,4 @@
-# Telecom Customer Churn Dashboard (Power BI Case Study)
+# Telecom Customer Churn Dashboard
 
 ## Overview  
 
