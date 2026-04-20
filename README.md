@@ -11,15 +11,15 @@ The goal of this project is to transform raw customer and billing data into acti
 ## Dashboard Preview  
 
 <p align="center">
-  <img src="https://github.com/YOUR-USERNAME/Telecom-Churn-Dashboard/blob/main/Churn%20Overview.png" width="500">
+  <img src="https://github.com/Jerome-analyst/PowerBI-Telecom-Churn-Dashboard/blob/main/Churn%20Overview.png" width="500">
 </p>
 
 <p align="center">
-  <img src="https://github.com/YOUR-USERNAME/Telecom-Churn-Dashboard/blob/main/Customer%20Profile.png" width="500">
+  <img src="https://github.com/Jerome-analyst/PowerBI-Telecom-Churn-Dashboard/blob/main/Customer%20Profile.png" width="500">
 </p>
 
 <p align="center">
-  <img src="https://github.com/YOUR-USERNAME/Telecom-Churn-Dashboard/blob/main/Revenue%20Impact.png" width="500">
+  <img src="https://github.com/Jerome-analyst/PowerBI-Telecom-Churn-Dashboard/blob/main/Revenue%20Impact.png" width="500">
 </p>
 
 ---
